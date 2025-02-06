@@ -41,5 +41,7 @@ public class Cube : MonoBehaviour
         {
             Destroy(gameObject);
         }
+        
     }
+    
 }
